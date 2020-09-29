@@ -17,6 +17,9 @@
         <module>changgou-web</module>
         <module>changgou-eureka</module>
         <module>changgou-common</module>
+        <module>changgou-common-db</module>
+        <module>changgou-service/changgou-service-goods</module>
+        <module>changgou-service_api/changgou-service-good-api</module>
     </modules>
 
 

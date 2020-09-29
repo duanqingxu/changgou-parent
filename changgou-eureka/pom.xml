@@ -11,6 +11,10 @@
 
     <artifactId>changgou-eureka</artifactId>
 
+    <description>
+        服务发现，服务注册中心
+    </description>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
