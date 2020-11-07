@@ -10,11 +10,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>changgou-common</artifactId>
-
     <description>
         抽取公共包，方便引用
     </description>
-
     <dependencies>
         <!--web起步依赖-->
         <dependency>
@@ -48,7 +46,4 @@
             <artifactId>httpclient</artifactId>
         </dependency>
     </dependencies>
-
-
-
 </project>
